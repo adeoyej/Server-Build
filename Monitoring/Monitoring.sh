@@ -1,4 +1,5 @@
 #!/bin/bash
+. ./Baseinstall/Baseinstall.sh
 #installing depencies 
 yum install gd gd-devel gcc glibc glibc-common wget
 #creating user and password 
