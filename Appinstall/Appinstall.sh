@@ -1,4 +1,5 @@
 #!/bin/bash
+. ./Baseinstall
 #install java jdk
 yum -y install java-1.8.0-openjdk-devel
 #installing cependencies 
