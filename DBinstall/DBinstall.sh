@@ -1,4 +1,5 @@
 #!/bin/bash
+. ./Baseinstall/Baseinstall.sh
 #getting mysql repo
 wget https://dev.mysql.com/get/mysql57-community-release-el7-9.noarch.rpm
 md5sum mysql57-community-release-el7-9.noarch.rpm
